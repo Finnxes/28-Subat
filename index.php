@@ -12,7 +12,7 @@
 
 <meta property="og:title" content="28 Subat " />
 <meta property="og:description"
-	content="asdasdsad />
+	content="28 Şubat Flappy Bird />
 <meta property="og:type" content="website" />
 <meta property="og:url"
 	content="http://www.flappycreator.com/flappy.php?id=63fe84501f717" />
